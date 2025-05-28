@@ -7,3 +7,6 @@
 
 Мова для аналізу php
 Мова реалізації C/C++
+
+
+![screen](https://github.com/user-attachments/assets/8e2dad86-5537-4089-b388-a26c5a1831c9)
